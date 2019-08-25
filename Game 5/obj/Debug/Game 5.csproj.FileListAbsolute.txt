@@ -7,3 +7,12 @@ C:\Users\Игорь\source\repos\Game 5\Game 5\bin\Debug\Game 5.pdb
 C:\Users\Игорь\source\repos\Game 5\Game 5\obj\Debug\Game 5.csproj.CoreCompileInputs.cache
 C:\Users\Игорь\source\repos\Game 5\Game 5\obj\Debug\Game 5.exe
 C:\Users\Игорь\source\repos\Game 5\Game 5\obj\Debug\Game 5.pdb
+C:\Users\igord\source\repos\Game-5\Game 5\bin\Debug\Game 5.exe.config
+C:\Users\igord\source\repos\Game-5\Game 5\bin\Debug\Game 5.exe
+C:\Users\igord\source\repos\Game-5\Game 5\bin\Debug\Game 5.pdb
+C:\Users\igord\source\repos\Game-5\Game 5\obj\Debug\Game 5.csprojAssemblyReference.cache
+C:\Users\igord\source\repos\Game-5\Game 5\obj\Debug\Game_5.Properties.Resources.resources
+C:\Users\igord\source\repos\Game-5\Game 5\obj\Debug\Game 5.csproj.GenerateResource.cache
+C:\Users\igord\source\repos\Game-5\Game 5\obj\Debug\Game 5.csproj.CoreCompileInputs.cache
+C:\Users\igord\source\repos\Game-5\Game 5\obj\Debug\Game 5.exe
+C:\Users\igord\source\repos\Game-5\Game 5\obj\Debug\Game 5.pdb
